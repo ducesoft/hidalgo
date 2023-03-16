@@ -3,7 +3,7 @@ package badger
 import (
 	"context"
 
-	"github.com/dgraph-io/badger/v2"
+	"github.com/dgraph-io/badger/v4"
 
 	"github.com/hidal-go/hidalgo/base"
 	"github.com/hidal-go/hidalgo/kv/flat"
